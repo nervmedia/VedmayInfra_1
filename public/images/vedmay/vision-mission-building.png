@@ -1,0 +1,774 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Page not found &#8211; Vedmayinfra</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Vedmayinfra &raquo; Feed" href="https://vedmayinfra.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vedmayinfra &raquo; Comments Feed" href="https://vedmayinfra.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/vedmayinfra.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.10"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+ 
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://vedmayinfra.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.10' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://vedmayinfra.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.1' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.wpr-dc-hidden{display:none!important}.wpr-dc-fallback{margin:0;padding:0}
+</style>
+<link rel='stylesheet' id='elementor-post-14-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/css/post-14.css?ver=1792860699' type='text/css' media='all' />
+<link rel='stylesheet' id='e-popup-style-css' href='https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.25.4' type='text/css' media='all' />
+<link rel='stylesheet' id='razzi-fonts-css' href='https://fonts.googleapis.com/css?family=Jost%3A200%2C300%2C400%2C500%2C600%2C700%2C800&#038;subset=latin%2Clatin-ext&#038;ver=20200928' type='text/css' media='all' />
+<link rel='stylesheet' id='razzi-css' href='https://vedmayinfra.com/wp-content/themes/razzi/style.css?ver=20220315' type='text/css' media='all' />
+<style id='razzi-inline-css' type='text/css'>
+.site-header .logo .logo-image {  }@media (min-width: 767px) {#campaign-bar { height: 50px;}}.razzi-boxed-layout  {}#page-header .page-header__title { padding-top: 50px; }#page-header .page-header__title { padding-bottom: 50px; }.footer-branding .logo-image {  }.footer-newsletter { --rz-footer-newsletter-top-spacing: 110px }.footer-newsletter { --rz-footer-newsletter-bottom-spacing: 41px }.footer-extra { --rz-footer-extra-top-spacing: 105px }.footer-extra { --rz-footer-extra-bottom-spacing: 112px }.footer-widgets { --rz-footer-widget-top-spacing: 64px }.footer-widgets { --rz-footer-widget-bottom-spacing: 64px }.footer-main { --rz-footer-main-top-spacing: 22px }.footer-main { --rz-footer-main-bottom-spacing: 22px }@media (max-width: 767px){.site-header .mobile-logo .logo-image {  }.menu-mobile-panel-content .mobile-logo .logo-image {  } }@media (max-width: 767px){ }
+</style>
+<link rel='stylesheet' id='widget-image-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-toggle-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/css/post-15.css?ver=1792860700' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-935-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/css/post-935.css?ver=1792860700' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-widget-common-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/common.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-nav-menu-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/nav-menu.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-header-search-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-search.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-header-offcanvas-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-offcanvas.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-header-info-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-info.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr-link-animations-css-css' href='https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-link-animations.min.css?ver=1.7.1070' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr-text-animations-css-css' href='https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1070' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr-addons-css-css' href='https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1070' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://vedmayinfra.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.7.1070' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1750522304' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1750522305' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-arimo-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/google-fonts/css/arimo.css?ver=1750522309' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-arsenal-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/google-fonts/css/arsenal.css?ver=1750522307' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-arima-css' href='https://vedmayinfra.com/wp-content/uploads/elementor/google-fonts/css/arima.css?ver=1750522311' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://vedmayinfra.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=4.0.7' type='text/css' media='all' />
+<script type='text/javascript'>
+		var elementskit = {
+			resturl: 'https://vedmayinfra.com/wp-json/elementskit/v1/',
+		}
+
+		</script><script type="text/javascript" data-cfasync="false" src="https://vedmayinfra.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" data-cfasync="false" src="https://vedmayinfra.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/themes/razzi/assets/js/plugins/html5shiv.min.js?ver=3.7.2" id="html5shiv-js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/themes/razzi/assets/js/plugins/respond.min.js?ver=1.4.2" id="respond-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://vedmayinfra.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vedmayinfra.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.10" />
+<!-- HFCM by 99 Robots - Snippet # 1: Home -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XZNXJX5');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+<meta name="og:url" content="https://vedmayinfra.com/building-dreams-with-vedmay-infra-shaping-nagpurs-skyline-for-over-a-decade/" /><meta name="generator" content="Elementor 4.1.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://vedmayinfra.com/wp-content/uploads/2024/03/cropped-02-01-removebg-preview-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://vedmayinfra.com/wp-content/uploads/2024/03/cropped-02-01-removebg-preview-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://vedmayinfra.com/wp-content/uploads/2024/03/cropped-02-01-removebg-preview-180x180.png" />
+<meta name="msapplication-TileImage" content="https://vedmayinfra.com/wp-content/uploads/2024/03/cropped-02-01-removebg-preview-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.site-content{
+	padding: 0px;
+}
+.elementor-935 .elementor-element.elementor-element-9082f14 .elementor-social-icon svg {
+    width: 20px; 
+}
+		</style>
+		<style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style><style id="kirki-inline-styles">.footer-branding .logo-text{font-family:Jost;font-size:28px;font-weight:600;text-transform:none;}/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVFNIg8mg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVPNIg8mg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNIg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVFNIg8mg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVPNIg8mg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNIg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVFNIg8mg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVPNIg8mg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://vedmayinfra.com/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNIg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="error404 wp-embed-responsive hfeed full-content header-default header-v1 elementor-default elementor-kit-14">
+<div id="page" class="site">
+				<div data-elementor-type="header" data-elementor-id="15" class="elementor elementor-15 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-58a46b8 dd elementor-hidden-mobile e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-parent" data-id="58a46b8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c14314d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="c14314d" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-94662a1 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="94662a1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://vedmayinfra.com/">
+							<img src="https://vedmayinfra.com/wp-content/uploads/elementor/thumbs/02-01-removebg-preview-qz6p0n0p8ej84ea3bsj40sr7axuev5evbayrenhdz4.png" title="02-01-removebg-preview" alt="02-01-removebg-preview" loading="lazy" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-1c1db69 wpr-nav-menu-bp-mobile wpr-main-menu-align-left wpr-main-menu-align--tabletleft wpr-main-menu-align--mobileleft wpr-pointer-underline wpr-pointer-line-fx wpr-pointer-fx-fade wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-mobile-menu-display-dropdown wpr-mobile-menu-full-width wpr-mobile-toggle-v1 wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-mega-menu" data-id="1c1db69" data-element_type="widget" data-e-type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}" data-widget_type="wpr-mega-menu.default">
+				<div class="elementor-widget-container">
+					<nav class="wpr-nav-menu-container wpr-mega-menu-container wpr-nav-menu-horizontal" data-trigger="hover"><ul id="menu-1-1c1db69" class="wpr-nav-menu wpr-mega-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://vedmayinfra.com" class="wpr-menu-item wpr-pointer-item"><span>HOME</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://vedmayinfra.com/about/" class="wpr-menu-item wpr-pointer-item"><span>ABOUT US</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" class="wpr-menu-item wpr-pointer-item"><span>PROPERTIES</span><i class="wpr-sub-icon fas" aria-hidden="true"></i></a>
+<ul  class="sub-menu wpr-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="https://vedmayinfra.com/plots/" class="wpr-sub-menu-item"><span>Plots</span></a>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://vedmayinfra.com/flats/" class="wpr-sub-menu-item"><span>Flats</span></a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="https://vedmayinfra.com/blog/" class="wpr-menu-item wpr-pointer-item"><span>BLOGS</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://vedmayinfra.com/contact" class="wpr-menu-item wpr-pointer-item"><span>CONTACT</span></a></li>
+</ul></nav><nav class="wpr-mobile-nav-menu-container"><div class="wpr-mobile-toggle-wrap"><div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div></div><div class="wpr-mobile-mega-menu-wrap " toggle-backface=""><ul id="mobile-menu-2-1c1db69" class="wpr-mobile-nav-menu wpr-mobile-mega-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://vedmayinfra.com" class="wpr-mobile-menu-item">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://vedmayinfra.com/about/" class="wpr-mobile-menu-item">ABOUT US</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" class="wpr-mobile-menu-item">PROPERTIES<i class="wpr-mobile-sub-icon"></i></a>
+<ul  class="sub-menu wpr-mobile-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="https://vedmayinfra.com/plots/" class="wpr-mobile-sub-menu-item">Plots</a>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://vedmayinfra.com/flats/" class="wpr-mobile-sub-menu-item">Flats</a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="https://vedmayinfra.com/blog/" class="wpr-mobile-menu-item">BLOGS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://vedmayinfra.com/contact" class="wpr-mobile-menu-item">CONTACT</a></li>
+</ul></div></nav>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7c92f9e e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="7c92f9e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-284eeb2 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="284eeb2" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-a1abbd0" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f705b86" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-11a3790" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3fa193a dd elementor-hidden-desktop elementor-hidden-tablet e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-parent" data-id="3fa193a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6b8cf70 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="6b8cf70" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ff510d5 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="ff510d5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://vedmayinfra.com/">
+							<img src="https://vedmayinfra.com/wp-content/uploads/elementor/thumbs/02-01-removebg-preview-qz6p0n0p8ej84ea3bsj40sr7axuev5evbayrenhdz4.png" title="02-01-removebg-preview" alt="02-01-removebg-preview" loading="lazy" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ce49c8b e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="ce49c8b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-037e2b1 elementor-widget elementor-widget-button" data-id="037e2b1" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="tel:+91%207709363727">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Call Now</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-af8872a wpr-nav-menu-bp-mobile wpr-mobile-menu-custom-width wpr-mobile-menu-drdown-align-right wpr-main-menu-align--mobileright wpr-main-menu-align-left wpr-main-menu-align--tabletleft wpr-pointer-underline wpr-pointer-line-fx wpr-pointer-fx-fade wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-mobile-menu-display-dropdown wpr-mobile-toggle-v1 wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-mega-menu" data-id="af8872a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}" data-widget_type="wpr-mega-menu.default">
+				<div class="elementor-widget-container">
+					<nav class="wpr-nav-menu-container wpr-mega-menu-container wpr-nav-menu-horizontal" data-trigger="hover"><ul id="menu-1-af8872a" class="wpr-nav-menu wpr-mega-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://vedmayinfra.com" class="wpr-menu-item wpr-pointer-item"><span>HOME</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://vedmayinfra.com/about/" class="wpr-menu-item wpr-pointer-item"><span>ABOUT US</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" class="wpr-menu-item wpr-pointer-item"><span>PROPERTIES</span><i class="wpr-sub-icon fas" aria-hidden="true"></i></a>
+<ul  class="sub-menu wpr-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="https://vedmayinfra.com/plots/" class="wpr-sub-menu-item"><span>Plots</span></a>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://vedmayinfra.com/flats/" class="wpr-sub-menu-item"><span>Flats</span></a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="https://vedmayinfra.com/blog/" class="wpr-menu-item wpr-pointer-item"><span>BLOGS</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://vedmayinfra.com/contact" class="wpr-menu-item wpr-pointer-item"><span>CONTACT</span></a></li>
+</ul></nav><nav class="wpr-mobile-nav-menu-container"><div class="wpr-mobile-toggle-wrap"><div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div></div><div class="wpr-mobile-mega-menu-wrap " toggle-backface=""><ul id="mobile-menu-2-af8872a" class="wpr-mobile-nav-menu wpr-mobile-mega-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://vedmayinfra.com" class="wpr-mobile-menu-item">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://vedmayinfra.com/about/" class="wpr-mobile-menu-item">ABOUT US</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" class="wpr-mobile-menu-item">PROPERTIES<i class="wpr-mobile-sub-icon"></i></a>
+<ul  class="sub-menu wpr-mobile-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="https://vedmayinfra.com/plots/" class="wpr-mobile-sub-menu-item">Plots</a>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://vedmayinfra.com/flats/" class="wpr-mobile-sub-menu-item">Flats</a></ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="https://vedmayinfra.com/blog/" class="wpr-mobile-menu-item">BLOGS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://vedmayinfra.com/contact" class="wpr-mobile-menu-item">CONTACT</a></li>
+</ul></div></nav>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+			
+	<div id="content" class="site-content "><div class="container clearfix">    <div id="primary" class="content-area">
+        <section class="error-404 not-found">
+			<span class="razzi-svg-icon error-404__svg"><svg aria-hidden="true" role="img" focusable="false" width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M37 37C37 37 33.25 32 27 32C20.75 32 17 37 17 37M19.5 19.5H19.525M34.5 19.5H34.525M52 27C52 40.8071 40.8071 52 27 52C13.1929 52 2 40.8071 2 27C2 13.1929 13.1929 2 27 2C40.8071 2 52 13.1929 52 27Z" stroke="#111111" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>            <h1 class="page-title">404. Page not found.</h1>
+            <div class="page-content">
+				Sorry, we couldn&rsquo;t find the page you where looking for. We suggest that you return to homepage.            </div><!-- .page-content -->
+            <a href="https://vedmayinfra.com"
+               class="razzi-button button-larger">Go to homepage</a>
+        </section><!-- .error-404 -->
+
+    </div><!-- #primary -->
+
+</div></div>
+		<div data-elementor-type="footer" data-elementor-id="935" class="elementor elementor-935 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-8a63c81 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-parent" data-id="8a63c81" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8bd0164 elementor-hidden-mobile e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="8bd0164" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7825399 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="7825399" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-00997b3 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="00997b3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://vedmayinfra.com/wp-content/uploads/2024/03/02-01-removebg-preview.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3ac3011 elementor-widget elementor-widget-text-editor" data-id="3ac3011" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Welcome to Vedmay Infra, your trusted partner in real estate and construction for over a decade. With 10-12 years of experience, we have been shaping Nagpur’s skyline by delivering exceptional residential and commercial plots and construction projects.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-018afb3 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="018afb3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f9616c4 elementor-widget elementor-widget-heading" data-id="f9616c4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Follow Links</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d071922 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d071922" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/">
+
+											<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/about/">
+
+											<span class="elementor-icon-list-text">About</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/plots/">
+
+											<span class="elementor-icon-list-text">Plots</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/flats/">
+
+											<span class="elementor-icon-list-text">Flats</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/blog/">
+
+											<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vedmayinfra.com/contact">
+
+											<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1549cf3 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="1549cf3" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4611c83 elementor-widget elementor-widget-heading" data-id="4611c83" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Social Links</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9082f14 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="9082f14" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-a1abbd0" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f705b86" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-11a3790" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e07c59b e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="e07c59b" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-35e2528 elementor-widget elementor-widget-heading" data-id="35e2528" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Contact</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-41547d2 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="41547d2" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Plot No. 14, Jaihind Society, Beside ' Amrut Lawn', Shyam Nagar, Nagpur 440036</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Email : Vedmaypropertynagpur@gmail.com</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-96b203a elementor-hidden-desktop elementor-hidden-tablet e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="96b203a" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0b65ce8 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="0b65ce8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2b66776 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="2b66776" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" width="634" height="394" src="https://vedmayinfra.com/wp-content/uploads/2024/03/02-01-removebg-preview.png" class="attachment-large size-large wp-image-3132" alt="" srcset="https://vedmayinfra.com/wp-content/uploads/2024/03/02-01-removebg-preview.png 634w, https://vedmayinfra.com/wp-content/uploads/2024/03/02-01-removebg-preview-300x186.png 300w" sizes="(max-width: 634px) 100vw, 634px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-de555df elementor-widget elementor-widget-text-editor" data-id="de555df" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Welcome to Vedmay Infra, your trusted partner in real estate and construction for over a decade. With 10-12 years of experience, we have been shaping Nagpur’s skyline by delivering exceptional residential and commercial plots and construction projects.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-907674c e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="907674c" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-8d342fd" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a0b636d" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-c86cdfc" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a71b92c e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="a71b92c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-44e05a6 elementor-widget elementor-widget-toggle" data-id="44e05a6" data-element_type="widget" data-e-type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-7221" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-7221" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="icon icon-down-arrow1"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened icon icon-up-arrow1"></i></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">Follow Links</a>
+					</div>
+
+					<div id="elementor-tab-content-7221" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-7221"><p><a href="https://vedmayinfra.com/">Home</a><br /><a href="https://vedmayinfra.com/about/">About</a><br /><a href="https://vedmayinfra.com/plots/">Plots</a><br /><a href="https://vedmayinfra.com/flats/">Flats</a><br /><a href="https://vedmayinfra.com/blog/">Blog</a><br /><a href="https://vedmayinfra.com/contact">Contact Us</a></p></div>
+				</div>
+								</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b58559e e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="b58559e" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cac5794 elementor-widget elementor-widget-heading" data-id="cac5794" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Contact</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1096aad elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1096aad" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Plot No. 14, Jaihind Society, Beside ' Amrut Lawn', Shyam Nagar, Nagpur 440036</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Email : Vedmaypropertynagpur@gmail.com</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8a0e4a8 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-parent" data-id="8a0e4a8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c23dba6 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="c23dba6" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1fa84db e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no wpr-column-slider-no wpr-equal-height-no e-con e-child" data-id="1fa84db" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6003738 elementor-widget elementor-widget-heading" data-id="6003738" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Copyright &amp;copy 2024 | All Right are Reserved</h2>				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<a href="#page" id="gotop"><span class="razzi-svg-icon "><svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="0" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span></a>
+</div><!-- #page -->
+<!-- HFCM by 99 Robots - Snippet # 2: Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XZNXJX5');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+<script id='kirki-viewport-lists'>var kirkiViewports = {"md":{"value":1200,"scale":1,"minWidth":1200,"maxWidth":1200,"title":"Desktop","icon":"desktop","activeIcon":"desktop-hover","id":"md","type":"max"},"tablet":{"value":991,"scale":1,"minWidth":991,"maxWidth":991,"title":"Tablet","icon":"tablet-default","activeIcon":"tablet-hover","type":"max","id":"tablet"},"mobileLandscape":{"value":767,"scale":1,"minWidth":767,"maxWidth":767,"title":"Landscape","icon":"phone-hr-default","activeIcon":"phone-hr-hover","type":"max","id":"mobileLandscape"},"mobile":{"value":575,"scale":1,"minWidth":575,"maxWidth":575,"title":"Mobile","icon":"phone-vr-default","activeIcon":"phone-vr-hover","type":"max","id":"mobile"}};</script><script id='kirki-variable-lists'>var kirkiCSSVariable = {"data":[{"title":"Colors","key":"color","modes":[{"title":"Default","key":"default"}],"variables":[]},{"title":"Numbers","key":"size","modes":[{"title":"Default","key":"default"}],"variables":[]},{"title":"Text Styles","key":"text-style","modes":[{"title":"Default","key":"default"}],"variables":[]},{"title":"Font Family","key":"font-family","modes":[{"title":"Default","key":"default"}],"variables":[]}]};</script><script id="kirki-api-and-nonce">
+    window.wp_kirki = {
+        ajaxUrl: "https://vedmayinfra.com/wp-admin/admin-ajax.php",
+        restUrl: "https://vedmayinfra.com/wp-json/",
+        siteUrl: "https://vedmayinfra.com",
+        apiVersion: "v1",
+        postId: "3821",
+        nonce: "7242d6bf64",
+        call_from: "",
+        templateId: "",
+        context: {"type":"404"}
+    };
+    </script>        <div id="mobile-menu-modal"
+             class="mobile-menu rz-modal ra-menu-mobile-modal ra-hamburger-modal side-left" tabindex="-1">
+            <div class="off-modal-layer"></div>
+            <div class="menu-mobile-panel-content panel-content">
+                <div class="modal-header">
+                    <div class="mobile-logo">
+											<div class="site-branding">
+    <a href="https://vedmayinfra.com/" class="logo ">
+		            <img src="https://vedmayinfra.com/wp-content/uploads/2024/03/02-01-removebg-preview.png" alt="Vedmayinfra"
+				 class="logo-dark logo-image">
+				    </a>
+
+	        <p class="site-title">
+            <a href="https://vedmayinfra.com/" rel="home">Vedmayinfra</a>
+        </p>
+	
+	</div>					                    </div>
+                    <a href="#"
+                       class="close-account-panel button-close"><span class="razzi-svg-icon "><svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></span></a>
+                </div>
+                <div class="modal-content">
+                    <nav class="hamburger-navigation menu-mobile-navigation">
+						<ul id="menu-primary" class="nav-menu menu click-item"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-18"><a href="https://vedmayinfra.com">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://vedmayinfra.com/about/">ABOUT US</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20"><a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PROPERTIES</a>
+<ul class="sub-menu check">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="https://vedmayinfra.com/plots/">Plots</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://vedmayinfra.com/flats/">Flats</a></li>
+
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="https://vedmayinfra.com/blog/">BLOGS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://vedmayinfra.com/contact">CONTACT</a></li>
+</ul>                    </nav>
+                    <div class="content-footer">
+						                    </div>
+                </div>
+            </div>
+        </div>
+					<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='e-sticky-css' href='https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.25.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://vedmayinfra.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/vedmayinfra.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/themes/razzi/assets/js/plugins/isInViewport.min.js?ver=20201012" id="isInViewport-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/themes/razzi/assets/js/plugins/notify.min.js?ver=1.0.0" id="notify-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="razzi-js-extra">
+/* <![CDATA[ */
+var razziData = {"direction":"false","ajax_url":"","nonce":"1ac70a75c1","search_content_type":"","header_search_number":"3","header_ajax_search":"0","sticky_header":"0","mobile_landscape":"3","mobile_portrait":"2","popup":"","popup_frequency":"1","popup_visible":"loaded","popup_visible_delay":"5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/themes/razzi/assets/js/scripts.min.js?ver=20220315" id="razzi-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"4.1.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/vedmayinfra.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/vedmayinfra.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/vedmayinfra.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"4df59aa5f7","atomicFormsSendForm":"1112132993"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; Vedmayinfra","excerpt":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.25.4" id="e-sticky-js"></script>
+<script type="text/javascript" id="ekit-core-js-extra">
+/* <![CDATA[ */
+var ekit_config = {"ajaxurl":"https:\/\/vedmayinfra.com\/wp-admin\/admin-ajax.php","nonce":"fdc98e94e5","i18n":{"video_frame":"Video player","close":"Close","slider_prev":"Previous slide","slider_next":"Next slide","slider_first":"This is the first slide","slider_last":"This is the last slide","slider_bullet":"Go to slide {{index}}"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/core.js?ver=4.0.7" id="ekit-core-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/nav-menu.js?ver=4.0.7" id="ekit-nav-menu-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=4.0.7" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=4.0.7" id="ekit-menu-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-search.js?ver=4.0.7" id="ekit-header-search-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-offcanvas.js?ver=4.0.7" id="ekit-header-offcanvas-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.25.4" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vedmayinfra.com\/wp-admin\/admin-ajax.php","nonce":"f0e281ec94","urls":{"assets":"https:\/\/vedmayinfra.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/vedmayinfra.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vedmayinfra.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.25.4" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.25.4" id="pro-elements-handlers-js"></script>
+<script type="text/javascript" id="wpr-addons-js-js-extra">
+/* <![CDATA[ */
+var WprConfig = {"ajaxurl":"https:\/\/vedmayinfra.com\/wp-admin\/admin-ajax.php","resturl":"https:\/\/vedmayinfra.com\/wp-json\/wpraddons\/v1","nonce":"ff8e2f13f9","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"https:\/\/vedmayinfra.com\/building-dreams-with-vedmay-infra-shaping-nagpurs-skyline-for-over-a-decade\/","wishlistPageID":"","wishlistPageURL":"https:\/\/vedmayinfra.com\/building-dreams-with-vedmay-infra-shaping-nagpurs-skyline-for-over-a-decade\/","chooseQuantityText":"Please select the required number of items.","site_key":"","site_key_v2":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error","woo_shop_ppp":"9","woo_shop_cat_ppp":"9","woo_shop_tag_ppp":"9","is_product_category":"","is_product_tag":"","sticky_section":"on"};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" src="https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1070" id="wpr-addons-js-js"></script>
+<script type="text/javascript" src="https://vedmayinfra.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1070" id="wpr-modal-popups-js-js"></script>
+<input type="hidden" id="rz-base-url" data-url="https://vedmayinfra.com/">
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.9.2 on 2026-10-28 11:38:43 -->

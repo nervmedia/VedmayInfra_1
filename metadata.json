@@ -1,0 +1,6 @@
+{
+  "name": "VEDMAY - Luxury Residences & Architectural Landmarks",
+  "description": "Ultra-luxury real estate developer portal showcasing signature residences, high-resolution galleries, and interactive architectural floor plans inspired by Emaar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
